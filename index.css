@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#nav {
+    margin: 0 auto;
+    display: inline-block;
+    width: 1140px;
+    height: 72px;
+    margin-left: 80px;
+}
+
+#image {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    width: 173px;
+    height: 48px;
+    margin-top: 12px ;
+    margin-bottom: 12px;
+}
+
+#product {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 13px;
+    margin-left: 179px;
+    font-size: 18px;
+}
+
+#services {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 13px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+#resources {
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 13px;
+    font-size: 18px;
+}
+
+#offers {
+    padding: 20px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 13px;
+    font-size: 18px;
+}
+
+#first-button {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-top: 13px;
+    margin-left: 179px;
+
+}
+
+#contact {
+    width: 105px;
+    height: 33px;
+    background-color: #E9D7FE;
+    border-color: #AC00FF;
+    outline: none;
+    border-radius: 8px;
+}
+
+#cards {
+    width: 720px;
+    height: 148px;
+    font-size: 64px;
+    line-height: 74px;
+    color: #323232;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 24px;
+    margin-left: 214px;
+    margin-top: 136px;
+}
+
+#money {
+    font-size: 24px;
+    width: 841px;
+    height: 64px;
+    line-height: 32px;
+    margin-left: 214px;
+    margin-bottom: 24px;
+    color: #323232;
+}
+
+#join {
+    background-color: #5C3BAE;
+    width: 204px;
+    height: 54px;
+    margin-left: 214px;
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    font-size: 18px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+#play{
+    display: inline-block;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#video {
+    color: #4D3491;
+    font-size: 18px;
+    line-height: 21px;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+#watch { 
+    display: inline-block;
+}
+#watch-icon, #watch { 
+    vertical-align: middle;
+}
+
+#card {
+    margin-top: -128px;
+    text-align: right;
+}
